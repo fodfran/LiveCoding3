@@ -1,0 +1,11 @@
+/Users/francesca/lc101/csharp-exercises/ZipArrays/bin/Debug/netcoreapp3.0/ZipArrays
+/Users/francesca/lc101/csharp-exercises/ZipArrays/bin/Debug/netcoreapp3.0/ZipArrays.deps.json
+/Users/francesca/lc101/csharp-exercises/ZipArrays/bin/Debug/netcoreapp3.0/ZipArrays.runtimeconfig.json
+/Users/francesca/lc101/csharp-exercises/ZipArrays/bin/Debug/netcoreapp3.0/ZipArrays.runtimeconfig.dev.json
+/Users/francesca/lc101/csharp-exercises/ZipArrays/bin/Debug/netcoreapp3.0/ZipArrays.dll
+/Users/francesca/lc101/csharp-exercises/ZipArrays/bin/Debug/netcoreapp3.0/ZipArrays.pdb
+/Users/francesca/lc101/csharp-exercises/ZipArrays/obj/Debug/netcoreapp3.0/ZipArrays.csprojAssemblyReference.cache
+/Users/francesca/lc101/csharp-exercises/ZipArrays/obj/Debug/netcoreapp3.0/ZipArrays.AssemblyInfoInputs.cache
+/Users/francesca/lc101/csharp-exercises/ZipArrays/obj/Debug/netcoreapp3.0/ZipArrays.AssemblyInfo.cs
+/Users/francesca/lc101/csharp-exercises/ZipArrays/obj/Debug/netcoreapp3.0/ZipArrays.dll
+/Users/francesca/lc101/csharp-exercises/ZipArrays/obj/Debug/netcoreapp3.0/ZipArrays.pdb
